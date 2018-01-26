@@ -34,7 +34,7 @@ An = I-mu*dt*(1-theta)*D/h^2;
     u = U\u;
     fn = fn1;
     un = u;
-	plot(x,u,'r')
+	%plot(x,u,'r')
 %hold on
 end
 return
